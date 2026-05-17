@@ -46,17 +46,13 @@ This lab simulates a full enterprise network with two offices (Office A and Offi
 ---
 
 ## Network Topology
+![TOPOLOGY](TOPOLOGY/image.png)
 
 ```
-                        Internet
-                           |
-                          R1
-                    /           \
-                 CSW1   ===   CSW2        ← Core Layer (L3 EtherChannel)
-               / | \ \     / / | \
-           DSW-A1 DSW-A2  DSW-B1 DSW-B2  ← Distribution Layer (HSRP)
-            |  \ / |      |  \ / |
-          ASW-A1 ASW-A2 ASW-A3  ASW-B1 ASW-B2 ASW-B3  ← Access Layer
+                      
+                        ← Core Layer (L3 EtherChannel)
+                        ← Distribution Layer (HSRP) 
+                        ← Access Layer
 ```
 
 ---

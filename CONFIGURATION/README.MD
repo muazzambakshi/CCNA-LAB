@@ -46,7 +46,7 @@ This lab simulates a full enterprise network with two offices (Office A and Offi
 ---
 
 ## Network Topology
-![TOPOLOGY](../TOPOLOGY/CCNA LAB.png)
+![TOPOLOGY](../TOPOLOGY/CCNA_LAB.png)
 
 
 ---

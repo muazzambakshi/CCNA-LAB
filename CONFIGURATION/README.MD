@@ -46,7 +46,7 @@ This lab simulates a full enterprise network with two offices (Office A and Offi
 ---
 
 ## Network Topology
-![TOPOLOY](TOPOLOGY/image.png)
+![TOPOLOGY](TOPOLOGY\image.png)
 
 ```
                       

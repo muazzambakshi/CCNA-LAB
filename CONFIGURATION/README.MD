@@ -46,14 +46,8 @@ This lab simulates a full enterprise network with two offices (Office A and Offi
 ---
 
 ## Network Topology
-![TOPOLOGY](../TOPOLOGY/image.png)
+![TOPOLOGY](../TOPOLOGY/CCNA LAB.png)
 
-```
-                      
-                        ← Core Layer (L3 EtherChannel)
-                        ← Distribution Layer (HSRP) 
-                        ← Access Layer
-```
 
 ---
 
